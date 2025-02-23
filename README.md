@@ -54,12 +54,6 @@ O projeto consiste em um único script Python que realiza as seguintes etapas:
 - O modelo deve alcançar uma acurácia de validação em torno de **90%** após algumas épocas.
 - Gráficos de perda e acurácia são gerados para monitorar o desempenho do modelo durante o treinamento.
 
-## Melhorias Futuras
-
-- **Fine-Tuning**: Descongelar algumas camadas da VGG16 e continuar o treinamento com uma taxa de aprendizado menor.
-- **Data Augmentation**: Aumentar o dataset com técnicas de aumento de dados para melhorar a generalização do modelo.
-- **Teste com Outras Redes**: Experimentar outras redes pré-treinadas, como ResNet ou Inception, para comparar o desempenho.
-
 ## Referências
 
 - [TensorFlow Datasets - Cats vs Dogs](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs)
@@ -74,4 +68,4 @@ O projeto consiste em um único script Python que realiza as seguintes etapas:
 2. Copie e cole o conteúdo acima no arquivo.
 3. Personalize o conteúdo conforme necessário (por exemplo, adicionando instruções específicas para o seu ambiente).
 
-Este arquivo README.md fornece uma visão clara do projeto e instruções para que outras pessoas possam reproduzir e entender o que foi feito. 😊
+
